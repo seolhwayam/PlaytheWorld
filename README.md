@@ -1,5 +1,7 @@
 # PlaytheWorld
-PlaytheWorld 방탈출 사이트 Clone코딩 프로젝트
+❤️PlaytheWorld 방탈출❤️사이트 Clone코딩 프로젝트
+
+stack : jsp, mysql 사용
 
 ※ 이 프로젝트는 학습 및 개인적인 연습을 위한 목적으로만 만들어졌습니다. 
 해당 프로젝트는 상업적인 목적으로 사용되지 않으며, 이와 관련된 수익 창출을 목표로 하지 않습니다.
